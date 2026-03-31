@@ -1,5 +1,5 @@
 ☕ Bright Coffee Shop — Project Description
-Bright Coffee Shop Sales Analysis is a data analytics case study designed to simulate a real-world junior data analyst role. The project was commissioned following the appointment of a new CEO at Bright Coffee Shop, a multi-location coffee business operating across three New York City neighbourhoods — Hell's Kitchen, Astoria, and Lower Manhattan.
+Bright Coffee Shop Sales Analysis is a data analytics case study designed to simulate a real-world junior data analyst role. The project was commissioned following the appointment of a new CEO at Bright Coffee Shop, a multi-location coffee business operating across three New York City neighbourhoods ; Hell's Kitchen, Astoria, and Lower Manhattan.
 
 The Brief
 The incoming CEO needed actionable business intelligence derived from historical transactional data to inform strategic decisions around revenue growth and product performance. As the Junior Data Analyst, the task was to take raw daily sales data, process it, analyse it, and present findings in a format accessible to executive leadership.
